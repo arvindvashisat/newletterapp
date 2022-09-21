@@ -8,3 +8,16 @@ Create a simple subscription platform (only RESTful APIs with MySQL) in which us
 - Use of command to send email to the subscribers (command must check all websites and send all new posts to subscribers which haven't been sent yet).
 - Use of queues to schedule sending in background.
 - No duplicate stories should get sent to subscribers.
+
+# Configuration Steps
+- Composer Update
+- Update env File
+- Add SMTP details
+- Run Migrations
+- Run Seeder
+
+# Check Postman
+https://www.getpostman.com/collections/bd327b54089015a2a1fe
+
+
+
