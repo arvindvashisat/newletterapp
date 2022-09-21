@@ -8,4 +8,3 @@ Create a simple subscription platform (only RESTful APIs with MySQL) in which us
 - Use of command to send email to the subscribers (command must check all websites and send all new posts to subscribers which haven't been sent yet).
 - Use of queues to schedule sending in background.
 - No duplicate stories should get sent to subscribers.
-- Deploy the code on a public github repository.
